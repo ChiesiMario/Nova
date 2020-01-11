@@ -1,0 +1,21 @@
+{
+    "version": "3.5.9",
+    "description": "Uninstall Tool 绿色破解版",
+    "url": "https://github.com/ChiesiMario/Installer/raw/master/Uninstall-Tool_3.5.9.zip",
+    "bin": [
+        "UninstallToolPortable.exe"
+    ],
+    "shortcuts": [
+        [
+            "UninstallToolPortable.exe",
+            "Uninstall Tool"
+        ],
+    ],
+    "checkver": {
+        "url": "https://github.com/ChiesiMario/Installer",
+        "regex": "Uninstall-Tool_([\\d.]+).zip"
+    },
+    "autoupdate": {
+        "url": "https://github.com/ChiesiMario/Installer/raw/master/Uninstall-Tool_$version.zip"
+    }
+}
