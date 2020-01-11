@@ -9,7 +9,7 @@
         [
             "UninstallToolPortable.exe",
             "Uninstall Tool"
-        ],
+        ]
     ],
     "checkver": {
         "url": "https://github.com/ChiesiMario/Installer",
