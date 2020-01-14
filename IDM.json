@@ -1,0 +1,14 @@
+{
+    "version": "6.36.2",
+    "description": "IDM 绿色破解版",
+    "url": "https://github.com/ChiesiMario/Installer/raw/master/IDM_6.36.2.zip",
+    "bin": [
+        "IDMan.exe"
+    ],
+    "shortcuts": [
+        [
+            "IDMan.exe",
+            "IDM"
+        ]
+    ]
+}
