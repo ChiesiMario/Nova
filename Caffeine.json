@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "description": "Caffeine 讓電腦保持清醒",
+    "url": "https://github.com/ChiesiMario/Installer/raw/master/Caffeine.zip",
+    "bin": [
+        "caffeine.exe"
+    ],
+    "shortcuts": [
+        [
+            "caffeine.exe",
+            "Caffeine"
+        ]
+    ]
+}

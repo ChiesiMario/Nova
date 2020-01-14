@@ -1,0 +1,14 @@
+{
+    "version": "10.1.26.618",
+    "description": "迅雷X 破解版",
+    "url": "https://github.com/ChiesiMario/Installer/raw/master/ThunderX_10.1.26.618.zip",
+    "bin": [
+        "Program/Thunder.exe"
+    ],
+    "shortcuts": [
+        [
+            "Program/Thunder.exe",
+            "迅雷 X"
+        ]
+    ]
+}
