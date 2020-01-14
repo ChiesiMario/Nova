@@ -11,11 +11,4 @@
             "Uninstall Tool"
         ]
     ],
-    "checkver": {
-        "url": "https://github.com/ChiesiMario/Installer",
-        "regex": "Uninstall-Tool_([\\d.]+).zip"
-    },
-    "autoupdate": {
-        "url": "https://github.com/ChiesiMario/Installer/raw/master/Uninstall-Tool_$version.zip"
-    }
 }
