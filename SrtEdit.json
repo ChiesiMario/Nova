@@ -3,7 +3,7 @@
     "description": "字幕編輯器",
     "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SrtEdit_6.3.zip",
     "bin": [
-        "SrtEdit.exe"
+        "App/SrtEdit/SrtEdit.exe"
     ],
     "shortcuts": [
         [
