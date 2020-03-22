@@ -1,0 +1,14 @@
+{
+    "version": "1.9.72.185",
+    "description": "百度網盤不限速免登錄下載工具",
+    "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SpeedPanX.7z",
+    "bin": [
+        "SpeedPanX.exe"
+    ],
+    "shortcuts": [
+        [
+            "SpeedPanX.exe",
+            "SpeedPanX"
+        ]
+    ]
+}
