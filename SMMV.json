@@ -3,11 +3,11 @@
     "description": "SolveigMM Video Splitter(视频剪辑)",
     "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SMMV.7z",
     "bin": [
-        "SMMVSplitterPortable"
+        "SMMVSplitterPortable.exe"
     ],
     "shortcuts": [
         [
-            "SMMVSplitterPortable",
+            "SMMVSplitterPortable.exe",
             "SolveigMM Video Splitter"
         ]
     ]
