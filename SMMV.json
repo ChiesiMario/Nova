@@ -1,13 +1,13 @@
 {
-    "version": "7.3.2002.06",
+    "version": "Cark",
     "description": "SolveigMM Video Splitter(视频剪辑)",
-    "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SMMV_7.3.2002.06.7z",
+    "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SMMV.7z",
     "bin": [
-        "SMMVSplitterBusiness_7.3.2002.06_64bit_Portable/load_x64.exe"
+        "SMMVSplitterPortable"
     ],
     "shortcuts": [
         [
-            "SMMVSplitterBusiness_7.3.2002.06_64bit_Portable/load_x64.exe",
+            "SMMVSplitterPortable",
             "SolveigMM Video Splitter"
         ]
     ]
