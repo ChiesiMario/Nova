@@ -1,7 +1,7 @@
 {
     "version": "6.3",
     "description": "字幕編輯器",
-    "url": "https://raw.githubusercontent.com/ChiesiMario/Installer/master/SrtEdit_6.3.zip",
+    "url": "https://raw.githubusercontent.com/ChiesiMario/Noah_Installer/master/SrtEdit_6.3.zip",
     "bin": [
         "App/SrtEdit/SrtEdit.exe"
     ],

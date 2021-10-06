@@ -1,7 +1,7 @@
 {
     "version": "0.1.3",
     "description": "自動生成字幕",
-    "url": "https://github.com/ChiesiMario/Installer/raw/master/Video-SRT-GUI_0.1.3.zip",
+    "url": "https://github.com/ChiesiMario/Noah_Installer/raw/master/Video-SRT-GUI_0.1.3.zip",
     "bin": [
         "videosrt.exe"
     ],

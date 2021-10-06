@@ -1,7 +1,7 @@
 {
     "version": "3.5.9",
     "description": "Uninstall Tool 绿色破解版",
-    "url": "https://github.com/ChiesiMario/Installer/raw/master/Uninstall-Tool_3.5.9.zip",
+    "url": "https://github.com/ChiesiMario/Noah_Installer/raw/master/Uninstall-Tool_3.5.9.zip",
     "bin": [
         "UninstallToolPortable.exe"
     ],
