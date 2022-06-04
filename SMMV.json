@@ -1,14 +1,14 @@
 {
-    "version": "7.6.2201.27_Cark",
+    "version": "Cark",
     "description": "SolveigMM Video Splitter(视频剪辑)",
     "url": "https://raw.githubusercontent.com/ChiesiMario/Noah_Installer/master/SMMV.7z",
     "bin": [
-        "SolveigMM Video Splitter.exe"
+        "SMMVSplitterPortable.exe"
     ],
     "shortcuts": [
         [
-            "SolveigMM Video Splitter.exe",
-            "SolveigMM Video Splitter"
+            "SMMVSplitterPortable.exe",
+            "SMMVSplitterPortable.exe"
         ]
     ]
 }
